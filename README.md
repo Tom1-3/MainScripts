@@ -5,9 +5,8 @@
 ### My Youtube Channel!
 <p>https://www.youtube.com/channel/UCjIvD-sWH0v7voMGDmZDqkQ</p>
 
-<p>Here Are All The Scripts I Have Showcased In My Videos!</p>
 
-<p>If You Have A Game You Want Comment On My Channel!</p>
+##If You Have A Game You Want Comment On My Channel!##
 
 ## Falling Color Block
 
