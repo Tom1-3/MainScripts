@@ -11,23 +11,23 @@
 ## Falling Color Block
 
 ```
-loadstring(game:HttpGet("https://controlc.com/c95a3cf1", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom1-3/MainScripts/main/FallingBlock.lua",true))()
 ```
 
 ## No Scope Arcade
 
 ```
-loadstring(game:HttpGet("https://controlc.com/ebcf0055", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom1-3/MainScripts/main/NoScopeArcade.lua",true))()
 ```
 
 ## Slap Battles
 
 ```
-loadstring(game:HttpGet("https://controlc.com/ee9b56a6", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom1-3/MainScripts/main/SlapBattles.lua",true))()
 ```
 ## Mining Simulator 2
 ```
-loadstring(game:HttpGet("https://controlc.com/f425a77d", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom1-3/MainScripts/main/MiningSimulator2.lua",true))()
 
 ```
 
