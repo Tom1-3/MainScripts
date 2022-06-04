@@ -6,7 +6,7 @@
 <p>https://www.youtube.com/channel/UCjIvD-sWH0v7voMGDmZDqkQ</p>
 
 
-##If You Have A Game You Want Comment On My Channel!##
+## If You Have A Game You Want Comment On My Channel!
 
 ## Falling Color Block
 
