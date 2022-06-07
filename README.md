@@ -1,12 +1,17 @@
-# Welcome To Tom's Main Scripts!
-
-# If A Script Isnt Here Just Wait For Awhile!
-
-### My Youtube Channel!
-<p>https://www.youtube.com/channel/UCjIvD-sWH0v7voMGDmZDqkQ</p>
 
 
-## If You Have A Game You Want Comment On My Channel!
+#If You Are Looking For My Scripts Im Sorry
+
+#I Have Had A Change Of Pace And Decided To Goto Gameplay Videos Instead As I Can Take More Of A Break With This Style
+
+
+#The Scripts Will Stay Up But Dont Expect Updates
+#They Are Opensource So If You Want You Can Look At Them
+
+
+
+
+#Goodbye
 
 ## Falling Color Block
 
@@ -30,4 +35,3 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom1-3/MainScripts/ma
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Tom1-3/MainScripts/main/MiningSimulator2.lua",true))()
 
 ```
-
