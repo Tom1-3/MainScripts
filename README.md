@@ -1,17 +1,9 @@
 
 
-# If You Are Looking For My Scripts Im Sorry
-
-# I Have Had A Change Of Pace And Decided To Goto Gameplay Videos Instead As I Can Take More Of A Break With This Style
-
-
-# The Scripts Will Stay Up But Dont Expect Updates
-# They Are Opensource So If You Want You Can Look At Them
+## More To Come If I'm Not Lazy Lol
 
 
 
-
-# Goodbye
 
 ## Falling Color Block
 
